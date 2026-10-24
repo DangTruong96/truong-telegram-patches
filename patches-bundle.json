@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-10-24T10:52:45",
-  "description": "Personal build of HushTelegram 0.0.20 (68 patches) for Telegram 13.1.0 - both the Google Play build (org.telegram.messenger, version code 72291) and the telegram.org build (org.telegram.messenger.web, 72299). Based on SysAdminDoc/HushTelegram (GPL-3.0), plus: Vietnamese translation of the HushTelegram settings, a Quiet hours patch (silences non-service chats on a schedule), per-chat download folders in Save downloaded files, a Quiet Pack quick setup, and quieter personal defaults. Needs Morphe Manager 2.0.0 or newer. The .mpp is a patch bundle, not a Telegram APK.",
-  "download_url": "https://github.com/DangTruong96/truong-telegram-patches/releases/download/gd2-2026.10.24/patches-0.0.20.mpp",
+  "created_at": "2026-10-25T03:05:23",
+  "description": "Personal build of HushTelegram 0.0.20 (69 patches) for Telegram 13.1.0 - the Google Play build (org.telegram.messenger, version code 72291); the base patches also support the telegram.org build (72299). Based on SysAdminDoc/HushTelegram (GPL-3.0), plus: Vietnamese translation of the HushTelegram settings, a Quiet hours patch (silences non-service chats on a schedule), per-chat download folders in Save downloaded files, a Quiet Pack quick setup, quieter personal defaults, and an Edit history patch that keeps the pre-edit text of edited messages on-device (verified on the Google Play build). Needs Morphe Manager 2.0.0 or newer. The .mpp is a patch bundle, not a Telegram APK.",
+  "download_url": "https://github.com/DangTruong96/truong-telegram-patches/releases/download/gd3-2026.10.25/patches-0.0.20.mpp",
   "signature_download_url": "",
   "version": "0.0.20"
 }
